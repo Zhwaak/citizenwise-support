@@ -1,4 +1,4 @@
-# Skywise - Support & Privacy
+# Citizenwise - Support & Privacy
 
 ## Support
 For technical assistance, feedback, or feature requests regarding Skywise: Part 107 Pro, please contact us at:

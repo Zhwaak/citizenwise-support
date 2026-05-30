@@ -1,7 +1,7 @@
 # Citizenwise - Support & Privacy
 
 ## Support
-For technical assistance, feedback, or feature requests regarding Skywise: Part 107 Pro, please contact us at:
+For technical assistance, feedback, or feature requests regarding Citizenwise, please contact us at:
 - **Email:** zhwaaka@outlook.com
 - **Response Time:** Typically within 24–48 hours.
 

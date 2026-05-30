@@ -84,4 +84,4 @@ We may update this Privacy Policy from time to time. The “Last Updated” date
 ## 14. Terms of Use
 Your use of the App is also subject to Apple’s Licensed Application End User License Agreement (“Standard EULA”) for App Store applications, unless you and we have agreed to a separate custom EULA in App Store Connect. You can read Apple’s Standard EULA in the App’s Settings under Terms of Use.
 
-**Last Updated:** March 16, 2026
+**Last Updated:** May 29, 2026
